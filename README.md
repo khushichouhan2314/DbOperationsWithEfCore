@@ -1,0 +1,2 @@
+# DbOperationsWithEfCore
+entity core tutorial
